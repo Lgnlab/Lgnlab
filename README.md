@@ -48,8 +48,9 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lgnlab&show_icons=true&theme=prussian&locale=pt-br" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgnlab&layout=compact&theme=prussian" height="180" />
 </div>
 
 ###
