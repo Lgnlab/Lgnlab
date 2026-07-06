@@ -51,6 +51,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian" height="150" alt="GitHub Streak" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian&refresh=1" height="150" alt="GitHub Streak" />
+</div>
 
 ###
 
