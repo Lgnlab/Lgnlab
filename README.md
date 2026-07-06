@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lgnlab&show_icons=true&theme=prussian&hide_border=false&locale=pt-br" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgnlab&layout=compact&theme=prussian&locale=pt-br&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
 ###
