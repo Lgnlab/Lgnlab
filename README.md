@@ -48,8 +48,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian" height="150" alt="GitHub Streak" />
 </div>
 
 ###
