@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lgnlab&theme=prussian" />
+  <img src="https://streak-stats.demolab.com?user=lgnlab&locale=pt-br&mode=daily&theme=prussian" height="180" alt="GitHub Streak" />
 </div>
 
 ###
