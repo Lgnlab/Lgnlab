@@ -48,25 +48,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian&cache=1" height="150" alt="GitHub Streak" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Lgnlab&locale=pt-br&mode=daily&theme=prussian&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Lgnlab/Lgnlab/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Lgnlab/Lgnlab/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/snake-output/snake.svg" alt="Snake animation" />
 
 ###
