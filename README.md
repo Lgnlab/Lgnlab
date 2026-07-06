@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lgnlab&show_icons=true&theme=prussian" />
+  <img src="https://streak-stats.demolab.com?user=lgnlab&theme=prussian" />
 </div>
 
 ###
