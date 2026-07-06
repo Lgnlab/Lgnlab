@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lgnlab&locale=pt&theme=prussian" height="180" />
+  <img src="https://streak-stats.demolab.com?user=lgnlab&locale=pt-PT&theme=prussian" height="180" />
 </div>
 
 ###
