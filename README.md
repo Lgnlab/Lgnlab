@@ -64,7 +64,7 @@
 
 <p align="center">
   <img
-    width="900"
+    width="700"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=minimal"
   />
 </p>
