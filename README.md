@@ -5,6 +5,7 @@
 <img data-importer="image" align="left" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
+## 🚀 Tecnologias
 
 <h4 data-importer="text" align="left">Desenvolvedor Backend em formação, focado no ecossistema Python.<br><br>Atualmente desenvolvo projetos utilizando Python, FastAPI, SQLAlchemy, PostgreSQL, Docker e Git, buscando aplicar boas práticas de desenvolvimento e construir APIs REST robustas e escaláveis.<br><br>Estou em constante evolução, compartilhando meus projetos e aprendizados enquanto busco minha primeira oportunidade na área de desenvolvimento backend.</h4>
 
