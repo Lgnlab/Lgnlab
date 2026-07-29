@@ -48,6 +48,8 @@
 
 ###
 
+## 📊 Estatísticas
+
 <p align="center">
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lgnlab&theme=github_dark">
@@ -56,8 +58,19 @@
 
 </p>
 
+###
+
+## 📈 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark"/>
+</p>
+
 
 ###
+
+###
+## 🐍 Contribuições
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/snake-output/snake.svg"/>
