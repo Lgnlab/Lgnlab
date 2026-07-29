@@ -48,9 +48,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lgnlab&locale=pt-PT&theme=prussian" height="180" />
-</div>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=lgnlab&theme=github-dark"
+/>
 
 ###
 
