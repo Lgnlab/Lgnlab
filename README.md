@@ -48,16 +48,9 @@
 
 ###
 
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=lgnlab&show_icons=true&theme=prussian&include_all_commits=true"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgnlab&layout=compact&theme=prussian"
-  />
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/Lgnlab" />
+</p>
 
 ###
 
