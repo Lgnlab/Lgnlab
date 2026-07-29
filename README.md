@@ -49,7 +49,7 @@
 ###
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=lgnlab&theme=github-dark"
+src="https://github-profile-trophy.vercel.app/?username=lgnlab&theme=algolia&no-frame=true&row=1"
 />
 
 ###
