@@ -48,10 +48,6 @@
 
 ###
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark"/>
-</p>
-
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/snake-output/snake.svg" alt="Snake animation" />
