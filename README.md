@@ -51,9 +51,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api?username=lgnlab&show_icons=true&theme=prussian&include_all_commits=true"
   height="180"
-/>
-
-<img
+/> <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgnlab&layout=compact&theme=prussian"
   height="180"
 />
