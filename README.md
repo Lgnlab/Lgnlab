@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Olá! 👋 Eu sou o Lucas Gabriel.</h1>
+<h1 data-importer="text" align="center"># Olá! 👋 Eu sou o Lucas Gabriel</h1>
 
 ###
 
@@ -7,7 +7,11 @@
 ###
 
 
-<h4 data-importer="text" align="left">Desenvolvedor Backend em formação, focado no ecossistema Python.<br><br>Atualmente desenvolvo projetos utilizando Python, FastAPI, SQLAlchemy, PostgreSQL, Docker e Git, buscando aplicar boas práticas de desenvolvimento e construir APIs REST robustas e escaláveis.<br><br>Estou em constante evolução, compartilhando meus projetos e aprendizados enquanto busco minha primeira oportunidade na área de desenvolvimento backend.</h4>
+<h4 data-importer="text" align="left">Desenvolvedor Backend em formação, apaixonado por construir APIs escaláveis e aplicar boas práticas de desenvolvimento.
+
+Atualmente estudo e desenvolvo projetos utilizando **Python**, **FastAPI**, **SQLAlchemy**, **PostgreSQL**, **Docker** e **Git**, sempre buscando escrever código limpo, organizado e de fácil manutenção.
+
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backend e continuar evoluindo através de projetos práticos e desafios reais.</h4>
 
 ###
 
