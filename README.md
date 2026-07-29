@@ -50,6 +50,8 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/snake-output/snake.svg"/>
+</p>
 
 ###
