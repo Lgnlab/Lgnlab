@@ -48,9 +48,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark"/>
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark"/>
+</p>
 
 ###
 
