@@ -64,11 +64,10 @@
 
 <p align="center">
   <img
-    width="700"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=minimal"
+    width="900"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark&hide_border=true"
   />
 </p>
-
 
 ###
 
