@@ -71,7 +71,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 
 <p align="center">
   <img
-    width="650"
+    width="600"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark&hide_border=true&area=true"
   />
 </p>
