@@ -59,15 +59,9 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lgnlab&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lgnlab&show_icons=true&theme=github_dark&hide_border=true">
 
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lgnlab&theme=github_dark"/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lgnlab&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgnlab&layout=compact&theme=github_dark&hide_border=true">
 
 </p>
 
@@ -76,9 +70,10 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 ## 📈 Atividade
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark&hide_border=true&area=true"/>
-
+  <img
+    width="650"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lgnlab&theme=github-dark&hide_border=true&area=true"
+  />
 </p>
 
 ###
