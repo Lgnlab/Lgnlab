@@ -58,8 +58,9 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="150" alt="Top Languages" />
+  <img src="https://shields.io" alt="Repo Size" />
+  <img src="https://shields.io" alt="Languages Count" />
+  <img src="https://shields.io" alt="Last Commit" />
 </p>
 
 
