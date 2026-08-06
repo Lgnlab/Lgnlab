@@ -30,11 +30,11 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 ###
 ## 🚀 Tecnologias
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
   <img width="12" />
@@ -57,13 +57,10 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 
 ## 📊 Estatísticas
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lgnlab&show_icons=true&theme=github_dark&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgnlab&layout=compact&theme=github_dark&hide_border=true">
-
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Lgnlab/Lgnlab/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
