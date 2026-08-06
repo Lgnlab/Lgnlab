@@ -1,0 +1,27 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa uma vez por dia
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Stats Images
+        run: |
+          mkdir -p stats-output
+          mkdir -p languages-output
+          # Baixa os SVGs estáticos diretamente via cURL simulando o backend
+          curl -s "https://vercel.app" -o stats-output/stats.svg
+          curl -s "https://vercel.app" -o languages-output/languages.svg
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update github readme stats graphs"
+          file_pattern: 'stats-output/* languages-output/*'
