@@ -56,10 +56,12 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 ###
 
 ## 📊 Estatísticas
+
 <p align="center">
   <img src="https://vercel.app" height="150" alt="stats graph" />
   <img src="https://vercel.app" height="150" alt="languages graph" />
 </p>
+
 ###
 
 ## 📈 Atividade
