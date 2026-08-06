@@ -62,6 +62,7 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
   <img src="./languages-output/languages.svg" height="150" alt="Top Languages" />
 </p>
 
+
 ###
 
 ## 📈 Atividade
