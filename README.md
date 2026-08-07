@@ -58,9 +58,9 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="./stats-output/stats.svg?v=4" height="180" alt="GitHub Stats" />
-  <img src="./languages-output/languages.svg?v=4" height="180" alt="Top Languages" />
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
 </p>
+
 
 ###
 
