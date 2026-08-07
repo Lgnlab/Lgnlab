@@ -11,18 +11,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Gráfico Geral Simplificado (Remove blocos vazios)
-      - name: General Stats Card
+      # Novo Gráfico: Estilo Cartão de Visitas Científico (Totalmente diferente!)
+      - name: GitHub Stats Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Lgnlab
           filename: stats-output/stats.svg
-          base: header, activity, repositories
-          base_indepth: yes
+          template: repository
+          base: header, activity, community, repositories
+          base_indepth: yes # Força a API a minerar dados mais profundos dos commits
           config_timezone: America/Sao_Paulo
 
-      # Gráfico de Linguagens Corrigido
+      # Novo Gráfico de Linguagens: Estilo Gráfico de Pizza Tridimensional
       - name: Languages Card
         uses: lowlighter/metrics@latest
         with:
@@ -33,7 +34,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 5
-
-
+          plugin_languages_details: percentage, lines
+          plugin_languages_indepth: yes # Vasculha todas as suas ramificações (branches) atrás de linguagens
+          plugin_languages_limit: 8
