@@ -65,16 +65,6 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backen
 
 ###
 
-## 📈 Atividade
-
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub de Lgnlab" />
-</p>
-
-
-###
-
 ###
 ## 🐍 Contribuições
 
